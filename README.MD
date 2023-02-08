@@ -1,1 +1,1 @@
-# There are my practice in leetcode[leetcode-cn.com/u/lyric-c/]
+# There are my practice in [leetcode](https://leetcode-cn.com/u/lyric-c/)
